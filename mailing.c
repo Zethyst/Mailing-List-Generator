@@ -4,7 +4,7 @@
 #include <stdlib.h>
 int main(void)
 {
-    const char *list[] = {"21052646", "21052665", "Enter roll no here"};
+    const char *list[] = {"21052646", "Enter roll no here", "Enter roll no here"};
     const char mail[] = "@kiit.ac.in";
     char list2[20][20];
     const int N = sizeof(list) / sizeof(*list);
